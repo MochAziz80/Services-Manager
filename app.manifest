@@ -1,0 +1,5 @@
+<application xmlns="urn:schemas-microsoft-com:asm.v3">
+  <windowsSettings>
+    <requestedExecutionLevel level="requireAdministrator" uiAccess="false"/>
+  </windowsSettings>
+</application>

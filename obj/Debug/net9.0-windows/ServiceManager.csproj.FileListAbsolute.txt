@@ -1,0 +1,15 @@
+D:\MAGANG\Aplikasi\ServiceManager\bin\Debug\net9.0-windows\ServiceManager.exe
+D:\MAGANG\Aplikasi\ServiceManager\bin\Debug\net9.0-windows\ServiceManager.deps.json
+D:\MAGANG\Aplikasi\ServiceManager\bin\Debug\net9.0-windows\ServiceManager.runtimeconfig.json
+D:\MAGANG\Aplikasi\ServiceManager\bin\Debug\net9.0-windows\ServiceManager.dll
+D:\MAGANG\Aplikasi\ServiceManager\bin\Debug\net9.0-windows\ServiceManager.pdb
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.AssemblyInfoInputs.cache
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.AssemblyInfo.cs
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.csproj.CoreCompileInputs.cache
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.dll
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\refint\ServiceManager.dll
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.pdb
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.genruntimeconfig.cache
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ref\ServiceManager.dll
+D:\MAGANG\Aplikasi\ServiceManager\obj\Debug\net9.0-windows\ServiceManager.csproj.AssemblyReference.cache
